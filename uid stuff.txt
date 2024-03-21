@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>April month calender</title>
+</head>
+
+<body>
+
+
+<table width="200" border="1" cellpadding="5" bordercolor="#000000" bgcolor="#00CCCC">
+<tr>
+<th colspan="7">April 2024</th>
+</tr>
+  <tr>
+    <th scope="col">Mon</th>
+    <th scope="col">Tue</th>
+    <th scope="col">Wed</th>
+    <th scope="col">Thur</th>
+    <th scope="col">Fri</th>
+    <th scope="col">Sat</th>
+    <th scope="col">Sun</th>
+  </tr>
+  <tr>
+    <td align="center" scope="row">1</td>
+    <td align="center">2</td>
+    <td align="center">3</td>
+    <td align="center">4</td>
+    <td align="center">5</td>
+    <td align="center">6</td>
+    <td align="center" bgcolor="#00CCCC">7</td>
+  </tr>
+  <tr>
+    <td align="center" scope="row">8</td>
+    <td align="center">9</td>
+    <td align="center">10</td>
+    <td align="center">11</td>
+    <td align="center">12</td>
+    <td align="center" bordercolor="#000033">13</td>
+    <td align="center">14</td>
+  </tr>
+  <tr>
+    <td align="center" scope="row">15</td>
+    <td align="center">16</td>
+    <td align="center">17</td>
+    <td align="center">18</td>
+    <td align="center">19</td>
+    <td align="center">20</td>
+    <td align="center">21</td>
+  </tr>
+  <tr>
+    <td align="center" scope="row">22</td>
+    <td align="center">23</td>
+    <td align="center">24</td>
+    <td align="center">25</td>
+    <td align="center">26</td>
+    <td align="center">27</td>
+    <td align="center">28</td>
+  </tr>
+  <tr>
+    <td align="center" scope="row">29</td>
+    <td align="center">30</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
