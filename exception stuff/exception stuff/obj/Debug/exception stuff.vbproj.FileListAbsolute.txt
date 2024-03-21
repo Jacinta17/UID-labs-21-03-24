@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\bin\Debug\exception stuff.exe.config
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\bin\Debug\exception stuff.exe
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\bin\Debug\exception stuff.pdb
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\bin\Debug\exception stuff.xml
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\obj\Debug\exception stuff.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\obj\Debug\exception stuff.exe
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\obj\Debug\exception stuff.xml
+C:\Users\student\Desktop\uid\exception stuff\exception stuff\obj\Debug\exception stuff.pdb
